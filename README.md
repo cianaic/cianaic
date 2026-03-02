@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cian McGlynn
-I’m interested in lots of things & tell chatbots to work harder
+I’m interested in lots of things & tell agents to work harder
 
 <!---
 cianaic/cianaic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
