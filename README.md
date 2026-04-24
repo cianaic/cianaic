@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Cian McGlynn
-I tell agents to work harder
+talking to agents
 
 <!---
 cianaic/cianaic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
